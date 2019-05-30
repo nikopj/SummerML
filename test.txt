@@ -1,5 +1,0 @@
-Hello World!
-These are the three commands you need to know:
-$ git add * # adds everything for next commit
-$ git commit -m "my first commit" 
-$ git push origin master
