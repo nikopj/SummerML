@@ -1,7 +1,0 @@
-Hello World!
-These are the three commands you need to know:
-$ git clone [github repo url]
-$ git add * # adds everything for next commit
-$ git commit -m "my first commit" 
-$ git push origin master # upload commits
-$ git pull origin master # download commits
