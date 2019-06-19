@@ -10,6 +10,8 @@ NYU Summer STEM Machine Learning Course
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day2/Day2.pdf)
 - [Student Code Notebook](https://github.com/nikopj/SummerML/blob/master/Day2/Day2_Student.ipynb)
 ### Day 3: Generalization Error
+- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day3/Day3.pdf)
+- [Student Notebook](https://github.com/nikopj/SummerML/blob/master/Day3/Day3.ipynb)
 ### Day 4: Linear Classifiers
 ### Day 5: Mini-Project / Competition
 ### Day 6: Neural Networks
