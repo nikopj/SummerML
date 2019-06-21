@@ -16,7 +16,7 @@ NYU Summer STEM Machine Learning Course
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day4/Day4.pdf)
 - [Student Notebook](https://github.com/nikopj/SummerML/blob/master/Day4/Day4.ipynb)
 ### Day 5: Mini-Project 
-- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day5/Day5.pdf)
+- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day5/Day5%20(1).pdf)
 ### Day 6: Neural Networks
 ### Day 7: Deep Neural Networks and CNNs
 ### Day 8: Applications of CNNs
