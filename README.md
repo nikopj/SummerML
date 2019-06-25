@@ -21,6 +21,7 @@ NYU Summer STEM Machine Learning Course
 ### Day 6: Neural Networks
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day6/Day6.pdf)
 - [Music Classification Code Notebook](https://github.com/nikopj/SummerML/blob/master/Day6/lab_music_classification.ipynb)
-### Day 7: Deep Neural Networks and CNNs
+### Day 7: Neural Networks
+- [Lab 1](https://github.com/nikopj/SummerML/blob/master/Day7/Debuggin_Glass_Classification_Neural.ipynb)
 ### Day 8: Applications of CNNs
 ### Day 9+10: Final Project
