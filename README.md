@@ -25,4 +25,5 @@ NYU Summer STEM Machine Learning Course
 - [Lab 1](https://github.com/nikopj/SummerML/blob/master/Day7/Debuggin_Glass_Classification_Neural.ipynb)
 - [Lab 3](https://github.com/nikopj/SummerML/blob/master/Day7/Credit_Card_Student.ipynb)
 ### Day 8: Applications of CNNs
+- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day8/Day8.pdf)
 ### Day 9+10: Final Project
