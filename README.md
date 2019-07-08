@@ -4,6 +4,9 @@ NYU Summer STEM Machine Learning Course
 ## Topic Schedule:
 ### Day 1: Intro to ML
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day1/Day1.pdf)
+- [Demo: Python Basics](https://github.com/nikopj/SummerML/blob/master/Day1/python_basics.ipynb)
+- [Demo: Vectors and Matrices](https://github.com/nikopj/SummerML/blob/master/Day1/vectors_matrices.ipynb)
+- [Demo: Visualizing Ice-Breaker Data](https://github.com/nikopj/SummerML/blob/master/Day1/IceBreakerDemo.ipynb)
 ### Day 2: Linear Regression
 ### Day 3: Generalization Error
 ### Day 4: Linear Classifiers
