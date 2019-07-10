@@ -11,9 +11,10 @@ NYU Summer STEM Machine Learning Course
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day2/Day2.pdf)
 - [Lab: Statistics for LS Solution](https://github.com/nikopj/SummerML/blob/master/Day2/lab_stats.ipynb)
 - [Demo: Multiple Linear Regression](https://github.com/nikopj/SummerML/blob/master/Day2/demo_multilinear.ipynb)
-- [Lab: Robot Arm](https://github.com/nikopj/SummerML/blob/master/Day2/Robot_Arm_Lab.ipynb)
 ### Day 3: Generalization Error
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day3/Day3.pdf)
+- [Lab: Robot Arm](https://github.com/nikopj/SummerML/blob/master/Day3/Robot_Arm.ipynb)
+- [Lab: Polynomial Fitting](https://github.com/nikopj/SummerML/blob/master/Day3/Lab_Fit_Polynomial.ipynb)
 ### Day 4: Linear Classifiers
 ### Day 5: Mini-Project 
 ### Day 6: Neural Networks
