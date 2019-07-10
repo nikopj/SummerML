@@ -9,6 +9,8 @@ NYU Summer STEM Machine Learning Course
 - [Demo: Visualizing Ice-Breaker Data](https://github.com/nikopj/SummerML/blob/master/Day1/IceBreakerDemo.ipynb)
 ### Day 2: Linear Regression
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day2/Day2.pdf)
+- [Lab: Statistics for LS Solution](https://github.com/nikopj/SummerML/blob/master/Day2/lab_stats.ipynb)
+- [Demo: Multiple Linear Regression](https://github.com/nikopj/SummerML/blob/master/Day2/demo_multilinear.ipynb)
 - [Lab: Robot Arm](https://github.com/nikopj/SummerML/blob/master/Day2/Robot_Arm_Lab.ipynb)
 ### Day 3: Generalization Error
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day3/Day3.pdf)
