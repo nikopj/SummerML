@@ -15,6 +15,7 @@ NYU Summer STEM Machine Learning Course
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day3/Day3.pdf)
 - [Lab: Robot Arm](https://github.com/nikopj/SummerML/blob/master/Day3/Robot_Arm.ipynb)
 - [Lab: Polynomial Fitting](https://github.com/nikopj/SummerML/blob/master/Day3/Lab_Fit_Polynomial.ipynb)
+- [Demo: Cross-Validation, Weight-Regularization](https://github.com/nikopj/SummerML/blob/master/Day3/demo_crossval_regularization.ipynb)
 ### Day 4: Linear Classifiers
 ### Day 5: Mini-Project 
 ### Day 6: Neural Networks
