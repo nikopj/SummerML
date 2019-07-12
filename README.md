@@ -19,6 +19,8 @@ NYU Summer STEM Machine Learning Course
 ### Day 4: Linear Classifiers
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day4/Day4.pdf)
 - [Animation: Gradient Descent](https://github.com/nikopj/SummerML/blob/master/Day4/sgd_linreg.ipynb)
+- [Lab: Breast Cancer](https://github.com/nikopj/SummerML/blob/master/Day4/Breast_Cancer_Demo.ipynb)
+- [Demo: Iris Dataset, Multiclass](https://github.com/nikopj/SummerML/blob/master/Day4/demo_iris.ipynb)
 ### Day 5: Mini-Project 
 ### Day 6: Neural Networks
 ### Day 7: Neural Networks
