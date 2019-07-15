@@ -21,9 +21,10 @@ NYU Summer STEM Machine Learning Course
 - [Animation: Gradient Descent](https://github.com/nikopj/SummerML/blob/master/Day4/sgd_linreg.ipynb)
 - [Lab: Breast Cancer](https://github.com/nikopj/SummerML/blob/master/Day4/Breast_Cancer_Demo.ipynb)
 - [Demo: Iris Multiclass](https://github.com/nikopj/SummerML/blob/master/Day4/demo_iris.ipynb)
-### Day 5: Mini-Project 
+### Day 5: Mini-Project / Competition 
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day5/Day5.pdf)
 - [Spiral Competition](https://github.com/nikopj/SummerML/blob/master/Day5/Spiral/Spiral_Student.ipynb)
+- [Spiral Competition: Teacher Solution](https://github.com/nikopj/SummerML/blob/master/Day5/Spiral/Spiral_Teacher.ipynb)
 ### Day 6: Neural Networks
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day6/Day6.pdf)
 ### Day 7: Neural Networks
