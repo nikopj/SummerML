@@ -25,6 +25,7 @@ NYU Summer STEM Machine Learning Course
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day5/Day5.pdf)
 - [Spiral Competition](https://github.com/nikopj/SummerML/blob/master/Day5/Spiral/Spiral_Student.ipynb)
 ### Day 6: Neural Networks
+- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day6/Day6.pdf)
 ### Day 7: Neural Networks
 ### Day 8: Convolutional Neural Networks
 ### Day 9+10: Final Project
