@@ -18,7 +18,7 @@ NYU Summer STEM Machine Learning Course
 - [Demo: Cross-Validation, Weight-Regularization](https://github.com/nikopj/SummerML/blob/master/Day3/demo_crossval_regularization.ipynb)
 ### Day 4: Linear Classifiers
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day4/Day4.pdf)
-- [Animation: Gradient Descent](https://github.com/nikopj/SummerML/blob/master/Day4/Animations.ipynb)
+- [Animations: Gradient Descent](https://github.com/nikopj/SummerML/blob/master/Day4/Animations)
 - [Lab: Breast Cancer](https://github.com/nikopj/SummerML/blob/master/Day4/Breast_Cancer_Demo.ipynb)
 - [Demo: Iris Multiclass](https://github.com/nikopj/SummerML/blob/master/Day4/demo_iris.ipynb)
 ### Day 5: Mini-Project / Competition 
