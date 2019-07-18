@@ -35,3 +35,4 @@ NYU Summer STEM Machine Learning Course
 ### Day 8: Deep Learning and Applications of CNNs
 - [Demo: Auto-Encoders](https://github.com/nikopj/SummerML/blob/master/Day8/demo_autoencoder.ipynb)
 ### Day 9+10: Final Project
+- [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day9%2B10/Day10.pdf)
