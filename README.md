@@ -31,7 +31,7 @@ NYU Summer STEM Machine Learning Course
 - [Animations: Mini-Batch Gradient Descent](https://github.com/nikopj/SummerML/blob/master/Day6/Animations)
 ### Day 7: Convolutional Neural Networks
 - [Lecture Slides](https://github.com/nikopj/SummerML/blob/master/Day7/Day7.pdf)
-- [Demo: Kernels](https://github.com/nikopj/SummerML/blob/master/Day7/Kernels%20Demo.ipynb)
+- [Demo: Kernels](https://github.com/nikopj/SummerML/blob/master/Day7/Kernels_Demo.ipynb)
 ### Day 8: Deep Learning and Applications of CNNs
 - [Demo: Auto-Encoders](https://github.com/nikopj/SummerML/blob/master/Day8/demo_autoencoder.ipynb)
 ### Day 9+10: Final Project
